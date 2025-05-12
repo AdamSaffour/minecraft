@@ -7,4 +7,3 @@
 Numer bechreibung:1 Bebeutet: Gras.2 Bebeutet: Stein.3 Bebeutet:Holz.4 Bebeutet:Dreg.5 Bebeutet:Wasser.
 Du Darfst Freunde das spiel zeigen.
 es ist vür 5jerige bis zu ewig.
-#Wen du F5 drügst dan statet das spiel.
